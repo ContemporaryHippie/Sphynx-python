@@ -1,2 +1,2 @@
-# Sphynx-python
-The Python back end for Sphynx.
+# Hone-python
+The Python back end for Hone.
